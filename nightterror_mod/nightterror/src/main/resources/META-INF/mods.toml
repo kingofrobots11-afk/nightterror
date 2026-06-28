@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[dependencies.nightterror]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.2.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.nightterror]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.nightterror]]
+    modId="geckolib"
+    mandatory=true
+    versionRange="[4.4,)"
+    ordering="NONE"
+    side="BOTH"
+[[mods]]
+    modId="nightterror"
+    version="1.0.0"
+    displayName="Night Terror"
+    description="A night-only boss encounter mod. Survive until dawn."
+    logoFile="nightterror.png"
